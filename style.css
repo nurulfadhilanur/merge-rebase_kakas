@@ -1,5 +1,5 @@
 body {
-    width: 10%;
+    width: 100%;
     margin: 30px;
     background-color: antiquewhite;
 }
@@ -12,10 +12,19 @@ body {
 }
 
 #profile-image{
-    width: 100%;
+    width: 10%;
     height: auto;
 }
 
 #profile-name{
     text-align: center;
+}
+
+#header{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
 }
